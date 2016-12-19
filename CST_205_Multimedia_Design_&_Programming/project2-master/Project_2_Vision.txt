@@ -1,0 +1,49 @@
+Louis Paul Romero
+Christopher Forysthe
+Arthur Diaz
+
+
+Mission: Steganography 
+
+First part: Put text into image
+|
+|
+Turn image into binary (function/module)
+|
+|
+Turn text into binary (function/module)
+|
+|
+Change least significant bit of each R, G, and B values in every pixel needed (function/module)
+with converted text's binary information.					
+|
+|
+Output Image
+|
+|
+Complete
+
+Second part: Take text out of image
+|
+|
+Reverse process and make binary into text (function/module)
+|
+|
+Reverse process and make binary into image (function/module)
+|
+|
+Extract binary of text from least significant bit of each R, G, and B values (function/moudle)
+in every pixel used.
+|
+|
+Output Image
+|
+|
+Complete
+
+Other Ideas:
+Add Encryption
+Add hiding image in an image
+Add hiding audio in an image
+Add GUI
+
