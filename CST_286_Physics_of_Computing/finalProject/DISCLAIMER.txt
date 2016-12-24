@@ -1,0 +1,1 @@
+Everything found in arduino_ledcub_master WAS NOT written by Louis Romero or Nicholas Rosas.  The code was uploaded to an Arduino to light up our constructed 3x3x3 LED cube.  See LICENSE for author's information.  
