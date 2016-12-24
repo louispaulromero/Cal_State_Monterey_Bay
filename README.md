@@ -1,3 +1,3 @@
 #Cal_State_Monterey_Bay
-#CST_286_Physics_of_Computing
-#CST_205_Multimedia_Design_&_Programming
+##1.CST_286_Physics_of_Computing
+##2.CST_205_Multimedia_Design_&_Programming
