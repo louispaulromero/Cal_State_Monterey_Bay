@@ -1,4 +1,4 @@
-#project2: TEXT and PNG Binary Manipulator
+#project2: Hide/Unhide Text in a JPEG (steganography)
 
 #Contributors
 #Louis Paul Romero
