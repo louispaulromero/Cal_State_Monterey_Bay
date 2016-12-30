@@ -3,7 +3,7 @@
 ##project1-master: Temporal Median Filter On a Series of 9 Images
 ###Summary:  An implementation of a temporal median filter. 
 
-##project2-master: TEXT and PNG Binary Manipulator
+##project2-master: Hide/Unhide Text in a JPEG (steganography)
 ###Summary:  This is a project of steganography.  With this program, text can be hidden or extracted from within an image.
 
 ##project3-master: Google Calendar Event Notification and Text Based Navigation through Text Messaging
