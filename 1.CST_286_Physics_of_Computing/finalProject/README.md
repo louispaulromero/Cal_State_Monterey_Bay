@@ -4,5 +4,5 @@
 ###Louis Romero
 ###Nicolas Rosas
 
-#See DISCLAIMER.txt
 #See presentation.pptx
+#See DISCLAIMER.txt
